@@ -41,6 +41,9 @@ span{
     background-repeat: no-repeat;
 }
 
+#exp-heading{
+    text-align: center;
+}
 .dream-big{
     background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
@@ -76,6 +79,7 @@ span{
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
+   
 }
 footer p{
     text-align: center;
