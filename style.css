@@ -10,7 +10,7 @@ span{
     color: orange;
 }
 
-section{
+.flexibale-content{
     display: flex;
     margin-bottom: 150px;
 }
